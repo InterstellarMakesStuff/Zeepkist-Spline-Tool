@@ -24,9 +24,23 @@ Note: the current build has no automatic Start/goal or checkpoint placing, so th
 Keybinds:
 
 Z - Hide lines connecting nodes in the editor, they were mainly there for debug purposes, but might help in understanding your cobwebs.
+
 X - Switch between Solid lines and dotted lines. This has no real impact and is just for preference.
+
 C - Hide Nodes. Used to get a better look at your track, not recommended to build with nodes hidden.
+
 V - Hide Handles. Same as above but with the handles. Makes building really hard, but looks good.
+
 B - Display Altitude/Rotation information on nodes and Handles.
+
 N - Toggle between changing Altitude and Rotation.
+
 M - Reduces track complexity to better performance in the editor, remember to reenable this before pressing R.
+
+Todo:
+Deleting Nodes / Adding nodes between existing ones
+Improved Visuals
+Fine tuning / Zoom features
+Faster / Slower scroll using shift/ctrl
+Angle copy Features
+Grid Snap
