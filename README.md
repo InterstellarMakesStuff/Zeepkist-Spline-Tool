@@ -8,9 +8,11 @@ If you have any problems, feel free to contact me on discord @ Lurk#0053 or simp
 Guide/tutorial:
 
 To make a simple Node(Point without handles, useful for start/end points), simply click in one spot without moving your mouse.
+
 To make a spline Node, Click and drag from the center of your wanted node to where you want the road to continue, this will generate a node and two handles, one on either side of the node.
 
 To move a node/ handle, simply drag the node/handle to where you want it to go, note that handles will mirror their counterpart.
+
 To change a nodes altitude, hold the mousebutton down on top of the node/handle you want to change, and scroll using you mousewheel.
 
 To change a nodes rotation/ make a banked corner, switch to rotation mode using N (when in rotation mode, only nodes should have numbers above them) and change the value like when changing altitude.
