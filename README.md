@@ -19,6 +19,8 @@ To change a nodes rotation/ make a banked corner, switch to rotation mode using 
 
 when you are satisfied with your track, you can test it ingame. To do this, press R to generate the track file, next make a empty level in Zeepkist by opening the level editor and saving to a new file. Then open the file location of your Zeepkist levels(either by pressing the button in the "load level" interface or by going to \AppData\Roaming\Zeepkist\Levels), and find the level you just made and open the text file, then copy over the contents of the "track.txt" file in the tool folder to the zeepkist level file, press save, and open the file ingame. You should now be seeing the level you have just created.
 
+If you want to trace a image, you can put a image titled "image.png" in the same folder as the executable.
+
 Note: the current build has no automatic Start/goal or checkpoint placing, so that will have to be done manually.
 
 Keybinds:
@@ -37,10 +39,13 @@ N - Toggle between changing Altitude and Rotation.
 
 M - Reduces track complexity to better performance in the editor, remember to reenable this before pressing R.
 
+A - Insertion Mode, click on a Node, any new Nodes after will be linked after this Node.
+D - Deletion Mode, enables dragging nodes to the little red box in the bottom left to delete them.
+
 Todo:
-Deleting Nodes / Adding nodes between existing ones
+Deleting Nodes / Adding nodes between existing ones - Check
 Improved Visuals
 Fine tuning / Zoom features
-Faster / Slower scroll using shift/ctrl
+Faster / Slower scroll using shift/ctrl - Check
 Angle copy Features
 Grid Snap
